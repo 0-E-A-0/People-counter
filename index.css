@@ -8,9 +8,9 @@ body {
 
 .container {
     background-color: rgba(255,255,255,.5);
-    max-width: 80%;
+    max-width: 60%;
     margin: auto;
-    border: 3px solid black;
+    border: 4px solid rgb(102, 65, 17);
     border-radius: 10px;
 }
 
@@ -26,7 +26,7 @@ h2 {
 }
 
 button {
-    border: 1px solid black;
+    border: 1.5px solid rgb(175, 103, 8);;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
@@ -37,11 +37,11 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: #9c1e1ed2;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: #1d7044;
 }
 
 #save-el {
